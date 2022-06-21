@@ -1,5 +1,6 @@
 # Comparison Sorting Visualizer
 A simple comparison sort visualizer using HTML, CSS, and JavaScript.
+It is hosted at https://chsyan.github.io/comparison-sorting-visualizer/
 
 ## Running
 The project can be cloned using git or by unzipping the downloaded project.
